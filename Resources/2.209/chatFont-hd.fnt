@@ -1,0 +1,796 @@
+info face="Helvetica Neue" size=28 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=33 base=27 scaleW=1024 scaleH=512 pages=1 packed=0
+page id=0 file="chatFont-hd.png"
+chars count=634
+char id=32     x=240   y=288   width=0     height=0     xoffset=0     yoffset=31    xadvance=8     page=0  chnl=0  letter="space"
+char id=33     x=281   y=246   width=5     height=21    xoffset=1     yoffset=10    xadvance=7     page=0  chnl=0  letter="!"
+char id=34     x=50    y=288   width=7     height=9     xoffset=2     yoffset=9     xadvance=12    page=0  chnl=0  letter="""
+char id=35     x=636   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="#"
+char id=36     x=771   y=67    width=16    height=27    xoffset=0     yoffset=7     xadvance=16    page=0  chnl=0  letter="$"
+char id=37     x=857   y=125   width=24    height=22    xoffset=2     yoffset=10    xadvance=28    page=0  chnl=0  letter="%"
+char id=38     x=365   y=151   width=19    height=22    xoffset=0     yoffset=9     xadvance=18    page=0  chnl=0  letter="&"
+char id=39     x=87    y=288   width=3     height=9     xoffset=2     yoffset=9     xadvance=8     page=0  chnl=0  letter="'"
+char id=40     x=250   y=96    width=8     height=27    xoffset=0     yoffset=10    xadvance=7     page=0  chnl=0  letter="("
+char id=41     x=260   y=96    width=8     height=27    xoffset=-1    yoffset=10    xadvance=7     page=0  chnl=0  letter=")"
+char id=42     x=2     y=288   width=10    height=9     xoffset=0     yoffset=10    xadvance=10    page=0  chnl=0  letter="*"
+char id=43     x=280   y=269   width=16    height=16    xoffset=0     yoffset=15    xadvance=17    page=0  chnl=0  letter="+"
+char id=44     x=59    y=288   width=5     height=9     xoffset=1     yoffset=26    xadvance=8     page=0  chnl=0  letter=","
+char id=45     x=210   y=288   width=10    height=4     xoffset=0     yoffset=20    xadvance=11    page=0  chnl=0  letter="-"
+char id=46     x=154   y=288   width=5     height=5     xoffset=1     yoffset=26    xadvance=8     page=0  chnl=0  letter="."
+char id=47     x=863   y=175   width=12    height=22    xoffset=-1    yoffset=9     xadvance=9     page=0  chnl=0  letter="/"
+char id=48     x=901   y=151   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="0"
+char id=49     x=229   y=246   width=9     height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="1"
+char id=50     x=653   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="2"
+char id=51     x=918   y=151   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="3"
+char id=52     x=670   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="4"
+char id=53     x=687   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="5"
+char id=54     x=935   y=151   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="6"
+char id=55     x=36    y=246   width=14    height=21    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="7"
+char id=56     x=952   y=151   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="8"
+char id=57     x=969   y=151   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="9"
+char id=58     x=757   y=269   width=5     height=16    xoffset=1     yoffset=15    xadvance=8     page=0  chnl=0  letter=":"
+char id=59     x=545   y=246   width=5     height=20    xoffset=1     yoffset=15    xadvance=8     page=0  chnl=0  letter=";"
+char id=60     x=298   y=269   width=16    height=16    xoffset=0     yoffset=15    xadvance=17    page=0  chnl=0  letter="<"
+char id=61     x=1006  y=269   width=16    height=9     xoffset=0     yoffset=19    xadvance=17    page=0  chnl=0  letter="="
+char id=62     x=316   y=269   width=16    height=16    xoffset=0     yoffset=15    xadvance=17    page=0  chnl=0  letter=">"
+char id=63     x=393   y=175   width=14    height=22    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="?"
+char id=64     x=26    y=151   width=21    height=22    xoffset=0     yoffset=9     xadvance=22    page=0  chnl=0  letter="@"
+char id=65     x=480   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="A"
+char id=66     x=2     y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="B"
+char id=67     x=386   y=151   width=19    height=22    xoffset=0     yoffset=9     xadvance=20    page=0  chnl=0  letter="C"
+char id=68     x=827   y=199   width=18    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="D"
+char id=69     x=704   y=223   width=15    height=21    xoffset=1     yoffset=10    xadvance=17    page=0  chnl=0  letter="E"
+char id=70     x=721   y=223   width=15    height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="F"
+char id=71     x=233   y=151   width=20    height=22    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="G"
+char id=72     x=21    y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="H"
+char id=73     x=295   y=246   width=4     height=21    xoffset=1     yoffset=10    xadvance=7     page=0  chnl=0  letter="I"
+char id=74     x=713   y=175   width=13    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="J"
+char id=75     x=847   y=199   width=18    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="K"
+char id=76     x=738   y=223   width=15    height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="L"
+char id=77     x=296   y=199   width=21    height=21    xoffset=1     yoffset=10    xadvance=24    page=0  chnl=0  letter="M"
+char id=78     x=40    y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="N"
+char id=79     x=49    y=151   width=21    height=22    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="O"
+char id=80     x=420   y=223   width=16    height=21    xoffset=1     yoffset=10    xadvance=18    page=0  chnl=0  letter="P"
+char id=81     x=2     y=125   width=21    height=24    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="Q"
+char id=82     x=867   y=199   width=18    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="R"
+char id=83     x=617   y=151   width=18    height=22    xoffset=0     yoffset=9     xadvance=18    page=0  chnl=0  letter="S"
+char id=84     x=59    y=223   width=17    height=21    xoffset=-1    yoffset=10    xadvance=16    page=0  chnl=0  letter="T"
+char id=85     x=637   y=151   width=18    height=22    xoffset=1     yoffset=9     xadvance=20    page=0  chnl=0  letter="U"
+char id=86     x=722   y=199   width=19    height=21    xoffset=-1    yoffset=10    xadvance=17    page=0  chnl=0  letter="V"
+char id=87     x=82    y=199   width=27    height=21    xoffset=-1    yoffset=10    xadvance=26    page=0  chnl=0  letter="W"
+char id=88     x=743   y=199   width=19    height=21    xoffset=-1    yoffset=10    xadvance=17    page=0  chnl=0  letter="X"
+char id=89     x=502   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="Y"
+char id=90     x=78    y=223   width=17    height=21    xoffset=0     yoffset=10    xadvance=17    page=0  chnl=0  letter="Z"
+char id=91     x=270   y=96    width=7     height=27    xoffset=1     yoffset=10    xadvance=7     page=0  chnl=0  letter="["
+char id=92     x=877   y=175   width=12    height=22    xoffset=-1    yoffset=9     xadvance=9     page=0  chnl=0  letter="\"
+char id=93     x=279   y=96    width=7     height=27    xoffset=-1    yoffset=10    xadvance=7     page=0  chnl=0  letter="]"
+char id=94     x=770   y=269   width=16    height=14    xoffset=0     yoffset=10    xadvance=17    page=0  chnl=0  letter="^"
+char id=95     x=222   y=288   width=16    height=3     xoffset=-1    yoffset=31    xadvance=14    page=0  chnl=0  letter="_"
+char id=96     x=120   y=288   width=7     height=6     xoffset=-2    yoffset=8     xadvance=6     page=0  chnl=0  letter="`"
+char id=97     x=814   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="a"
+char id=98     x=986   y=151   width=15    height=22    xoffset=1     yoffset=9     xadvance=17    page=0  chnl=0  letter="b"
+char id=99     x=831   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="c"
+char id=100    x=1003  y=151   width=15    height=22    xoffset=0     yoffset=9     xadvance=17    page=0  chnl=0  letter="d"
+char id=101    x=848   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="e"
+char id=102    x=966   y=175   width=9     height=22    xoffset=-1    yoffset=9     xadvance=8     page=0  chnl=0  letter="f"
+char id=103    x=2     y=175   width=15    height=22    xoffset=0     yoffset=15    xadvance=16    page=0  chnl=0  letter="g"
+char id=104    x=100   y=246   width=13    height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="h"
+char id=105    x=301   y=246   width=4     height=21    xoffset=1     yoffset=10    xadvance=6     page=0  chnl=0  letter="i"
+char id=106    x=324   y=96    width=6     height=27    xoffset=-1    yoffset=10    xadvance=6     page=0  chnl=0  letter="j"
+char id=107    x=52    y=246   width=14    height=21    xoffset=1     yoffset=10    xadvance=15    page=0  chnl=0  letter="k"
+char id=108    x=307   y=246   width=4     height=21    xoffset=1     yoffset=10    xadvance=6     page=0  chnl=0  letter="l"
+char id=109    x=111   y=269   width=22    height=16    xoffset=1     yoffset=15    xadvance=24    page=0  chnl=0  letter="m"
+char id=110    x=665   y=269   width=13    height=16    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="n"
+char id=111    x=688   y=246   width=16    height=17    xoffset=0     yoffset=14    xadvance=16    page=0  chnl=0  letter="o"
+char id=112    x=19    y=175   width=15    height=22    xoffset=1     yoffset=15    xadvance=17    page=0  chnl=0  letter="p"
+char id=113    x=36    y=175   width=15    height=22    xoffset=0     yoffset=15    xadvance=17    page=0  chnl=0  letter="q"
+char id=114    x=738   y=269   width=9     height=16    xoffset=1     yoffset=15    xadvance=9     page=0  chnl=0  letter="r"
+char id=115    x=984   y=246   width=14    height=17    xoffset=0     yoffset=14    xadvance=14    page=0  chnl=0  letter="s"
+char id=116    x=523   y=246   width=9     height=20    xoffset=-1    yoffset=11    xadvance=9     page=0  chnl=0  letter="t"
+char id=117    x=680   y=269   width=13    height=16    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="u"
+char id=118    x=406   y=269   width=15    height=16    xoffset=-1    yoffset=15    xadvance=14    page=0  chnl=0  letter="v"
+char id=119    x=135   y=269   width=22    height=16    xoffset=-1    yoffset=15    xadvance=21    page=0  chnl=0  letter="w"
+char id=120    x=334   y=269   width=16    height=16    xoffset=-1    yoffset=15    xadvance=15    page=0  chnl=0  letter="x"
+char id=121    x=53    y=175   width=15    height=22    xoffset=-1    yoffset=15    xadvance=14    page=0  chnl=0  letter="y"
+char id=122    x=457   y=269   width=14    height=16    xoffset=0     yoffset=15    xadvance=13    page=0  chnl=0  letter="z"
+char id=123    x=217   y=96    width=9     height=27    xoffset=0     yoffset=10    xadvance=9     page=0  chnl=0  letter="{"
+char id=124    x=585   y=2     width=3     height=29    xoffset=1     yoffset=8     xadvance=6     page=0  chnl=0  letter="|"
+char id=125    x=228   y=96    width=9     height=27    xoffset=0     yoffset=10    xadvance=9     page=0  chnl=0  letter="}"
+char id=126    x=102   y=288   width=16    height=6     xoffset=0     yoffset=18    xadvance=17    page=0  chnl=0  letter="~"
+char id=161    x=288   y=246   width=5     height=21    xoffset=1     yoffset=16    xadvance=7     page=0  chnl=0  letter="¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=163    x=70    y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=165    x=97    y=223   width=17    height=21    xoffset=-1    yoffset=10    xadvance=16    page=0  chnl=0  letter="¥₩₹₫₺×÷≠≈"
+char id=169    x=935   y=125   width=23    height=22    xoffset=0     yoffset=9     xadvance=22    page=0  chnl=0  letter="©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=171    x=952   y=269   width=11    height=11    xoffset=0     yoffset=17    xadvance=13    page=0  chnl=0  letter="«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=174    x=960   y=125   width=23    height=22    xoffset=0     yoffset=9     xadvance=22    page=0  chnl=0  letter="®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=176    x=994   y=269   width=10    height=10    xoffset=1     yoffset=9     xadvance=11    page=0  chnl=0  letter="°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=177    x=352   y=269   width=16    height=16    xoffset=0     yoffset=15    xadvance=17    page=0  chnl=0  letter="±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=178    x=817   y=269   width=10    height=14    xoffset=-1    yoffset=9     xadvance=9     page=0  chnl=0  letter="²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=179    x=804   y=269   width=11    height=14    xoffset=-1    yoffset=9     xadvance=9     page=0  chnl=0  letter="³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=183    x=161   y=288   width=5     height=5     xoffset=1     yoffset=19    xadvance=8     page=0  chnl=0  letter="·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=187    x=965   y=269   width=11    height=11    xoffset=1     yoffset=17    xadvance=13    page=0  chnl=0  letter="»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=189    x=200   y=125   width=23    height=23    xoffset=0     yoffset=9     xadvance=23    page=0  chnl=0  letter="½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=191    x=409   y=175   width=14    height=22    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=192    x=957   y=37    width=20    height=27    xoffset=-1    yoffset=4     xadvance=18    page=0  chnl=0  letter="ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=193    x=979   y=37    width=20    height=27    xoffset=-1    yoffset=4     xadvance=18    page=0  chnl=0  letter="ÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=194    x=1001  y=37    width=20    height=27    xoffset=-1    yoffset=4     xadvance=18    page=0  chnl=0  letter="ÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=195    x=2     y=67    width=20    height=27    xoffset=-1    yoffset=4     xadvance=18    page=0  chnl=0  letter="ÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=196    x=490   y=96    width=20    height=26    xoffset=-1    yoffset=5     xadvance=18    page=0  chnl=0  letter="ÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=197    x=897   y=2     width=20    height=28    xoffset=-1    yoffset=3     xadvance=18    page=0  chnl=0  letter="ÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=198    x=111   y=199   width=27    height=21    xoffset=-1    yoffset=10    xadvance=26    page=0  chnl=0  letter="ÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=199    x=46    y=37    width=19    height=28    xoffset=0     yoffset=9     xadvance=20    page=0  chnl=0  letter="ÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=200    x=843   y=67    width=15    height=27    xoffset=1     yoffset=4     xadvance=17    page=0  chnl=0  letter="ÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=201    x=860   y=67    width=15    height=27    xoffset=1     yoffset=4     xadvance=17    page=0  chnl=0  letter="ÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=202    x=877   y=67    width=15    height=27    xoffset=1     yoffset=4     xadvance=17    page=0  chnl=0  letter="ÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=203    x=802   y=96    width=15    height=26    xoffset=1     yoffset=5     xadvance=17    page=0  chnl=0  letter="ËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=204    x=288   y=96    width=7     height=27    xoffset=-2    yoffset=4     xadvance=7     page=0  chnl=0  letter="ÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=205    x=714   y=37    width=7     height=28    xoffset=1     yoffset=3     xadvance=7     page=0  chnl=0  letter="ÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=206    x=181   y=96    width=10    height=27    xoffset=-2    yoffset=4     xadvance=7     page=0  chnl=0  letter="ÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=207    x=940   y=96    width=9     height=26    xoffset=-1    yoffset=5     xadvance=7     page=0  chnl=0  letter="ÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=208    x=524   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=20    page=0  chnl=0  letter="ÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=209    x=745   y=96    width=17    height=26    xoffset=1     yoffset=5     xadvance=20    page=0  chnl=0  letter="ÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=210    x=805   y=2     width=21    height=28    xoffset=0     yoffset=3     xadvance=21    page=0  chnl=0  letter="ÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=211    x=828   y=2     width=21    height=28    xoffset=0     yoffset=3     xadvance=21    page=0  chnl=0  letter="ÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=212    x=888   y=37    width=21    height=27    xoffset=0     yoffset=4     xadvance=21    page=0  chnl=0  letter="ÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=213    x=911   y=37    width=21    height=27    xoffset=0     yoffset=4     xadvance=21    page=0  chnl=0  letter="ÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=214    x=421   y=96    width=21    height=26    xoffset=0     yoffset=5     xadvance=21    page=0  chnl=0  letter="ÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=215    x=788   y=269   width=14    height=14    xoffset=1     yoffset=16    xadvance=17    page=0  chnl=0  letter="×÷≠≈"
+char id=216    x=250   y=125   width=21    height=23    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=217    x=130   y=37    width=18    height=28    xoffset=1     yoffset=3     xadvance=20    page=0  chnl=0  letter="ÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=218    x=150   y=37    width=18    height=28    xoffset=1     yoffset=3     xadvance=20    page=0  chnl=0  letter="ÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=219    x=264   y=67    width=18    height=27    xoffset=1     yoffset=4     xadvance=20    page=0  chnl=0  letter="ÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=220    x=705   y=96    width=18    height=26    xoffset=1     yoffset=5     xadvance=20    page=0  chnl=0  letter="ÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=221    x=24    y=67    width=20    height=27    xoffset=-1    yoffset=4     xadvance=18    page=0  chnl=0  letter="ÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=222    x=438   y=223   width=16    height=21    xoffset=1     yoffset=10    xadvance=18    page=0  chnl=0  letter="Þßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=223    x=425   y=175   width=14    height=22    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="ßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=224    x=411   y=125   width=15    height=23    xoffset=0     yoffset=8     xadvance=15    page=0  chnl=0  letter="àáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=225    x=428   y=125   width=15    height=23    xoffset=0     yoffset=8     xadvance=15    page=0  chnl=0  letter="áâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=226    x=445   y=125   width=15    height=23    xoffset=0     yoffset=8     xadvance=15    page=0  chnl=0  letter="âãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=227    x=87    y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="ãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=228    x=755   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=15    page=0  chnl=0  letter="äåæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=229    x=85    y=125   width=15    height=24    xoffset=0     yoffset=7     xadvance=15    page=0  chnl=0  letter="åæçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=230    x=579   y=246   width=24    height=17    xoffset=0     yoffset=14    xadvance=24    page=0  chnl=0  letter="æçèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=231    x=104   y=175   width=15    height=22    xoffset=0     yoffset=15    xadvance=15    page=0  chnl=0  letter="çèéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=232    x=462   y=125   width=15    height=23    xoffset=0     yoffset=8     xadvance=15    page=0  chnl=0  letter="èéêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=233    x=479   y=125   width=15    height=23    xoffset=0     yoffset=8     xadvance=15    page=0  chnl=0  letter="éêëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=234    x=496   y=125   width=15    height=23    xoffset=0     yoffset=8     xadvance=15    page=0  chnl=0  letter="êëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=235    x=772   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=15    page=0  chnl=0  letter="ëìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=236    x=688   y=125   width=7     height=23    xoffset=-2    yoffset=8     xadvance=6     page=0  chnl=0  letter="ìíîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=237    x=697   y=125   width=7     height=23    xoffset=0     yoffset=8     xadvance=6     page=0  chnl=0  letter="íîïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=238    x=930   y=175   width=10    height=22    xoffset=-2    yoffset=9     xadvance=6     page=0  chnl=0  letter="îïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=239    x=240   y=246   width=9     height=21    xoffset=-2    yoffset=10    xadvance=6     page=0  chnl=0  letter="ïðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=240    x=793   y=151   width=16    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="ðñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=241    x=115   y=246   width=13    height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="ñòóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=242    x=357   y=125   width=16    height=23    xoffset=0     yoffset=8     xadvance=16    page=0  chnl=0  letter="òóôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=243    x=375   y=125   width=16    height=23    xoffset=0     yoffset=8     xadvance=16    page=0  chnl=0  letter="óôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=244    x=393   y=125   width=16    height=23    xoffset=0     yoffset=8     xadvance=16    page=0  chnl=0  letter="ôõöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=245    x=811   y=151   width=16    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="õöøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=246    x=456   y=223   width=16    height=21    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="öøùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=247    x=706   y=246   width=16    height=17    xoffset=0     yoffset=14    xadvance=17    page=0  chnl=0  letter="÷≠≈"
+char id=248    x=724   y=246   width=16    height=17    xoffset=0     yoffset=15    xadvance=16    page=0  chnl=0  letter="øùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=249    x=613   y=125   width=13    height=23    xoffset=1     yoffset=8     xadvance=16    page=0  chnl=0  letter="ùúûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=250    x=628   y=125   width=13    height=23    xoffset=1     yoffset=8     xadvance=16    page=0  chnl=0  letter="úûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=251    x=728   y=175   width=13    height=22    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="ûüýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=252    x=130   y=246   width=13    height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="üýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=253    x=517   y=2     width=15    height=29    xoffset=-1    yoffset=8     xadvance=14    page=0  chnl=0  letter="ýþÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=254    x=894   y=67    width=15    height=27    xoffset=1     yoffset=10    xadvance=17    page=0  chnl=0  letter="þÿ¡¿«»°£©®±²³·½–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=255    x=911   y=67    width=15    height=27    xoffset=-1    yoffset=10    xadvance=14    page=0  chnl=0  letter="ÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſȘșȚțΆΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџҐґ–—‘’‚‛“”…€"
+char id=256    x=512   y=96    width=20    height=26    xoffset=-1    yoffset=5     xadvance=18    page=0  chnl=0  letter="ĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=257    x=789   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=15    page=0  chnl=0  letter="āĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=258    x=919   y=2     width=20    height=28    xoffset=-1    yoffset=3     xadvance=18    page=0  chnl=0  letter="ĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=259    x=513   y=125   width=15    height=23    xoffset=0     yoffset=8     xadvance=15    page=0  chnl=0  letter="ăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=260    x=46    y=67    width=20    height=27    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="ĄąĆćĘęŁłŃńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=261    x=121   y=175   width=15    height=22    xoffset=0     yoffset=15    xadvance=15    page=0  chnl=0  letter="ąĆćĘęŁłŃńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=262    x=67    y=37    width=19    height=28    xoffset=0     yoffset=3     xadvance=20    page=0  chnl=0  letter="ĆćĘęŁłŃńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=263    x=530   y=125   width=15    height=23    xoffset=0     yoffset=8     xadvance=15    page=0  chnl=0  letter="ćĘęŁłŃńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=264    x=88    y=37    width=19    height=28    xoffset=0     yoffset=3     xadvance=20    page=0  chnl=0  letter="ĈĉĔĕĜĝĤĥĬĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=265    x=138   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="ĉĔĕĜĝĤĥĬĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=266    x=222   y=67    width=19    height=27    xoffset=0     yoffset=4     xadvance=20    page=0  chnl=0  letter="ĊċĠġĦħ"
+char id=267    x=155   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="ċĠġĦħ"
+char id=268    x=109   y=37    width=19    height=28    xoffset=0     yoffset=3     xadvance=20    page=0  chnl=0  letter="ČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=269    x=172   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="čĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=270    x=284   y=67    width=18    height=27    xoffset=1     yoffset=4     xadvance=20    page=0  chnl=0  letter="ĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=271    x=255   y=151   width=20    height=22    xoffset=0     yoffset=9     xadvance=17    page=0  chnl=0  letter="ďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=272    x=546   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=20    page=0  chnl=0  letter="ĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=273    x=657   y=151   width=18    height=22    xoffset=0     yoffset=9     xadvance=17    page=0  chnl=0  letter="đƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=274    x=819   y=96    width=15    height=26    xoffset=1     yoffset=5     xadvance=17    page=0  chnl=0  letter="ĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=275    x=806   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=15    page=0  chnl=0  letter="ēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=276    x=928   y=67    width=15    height=27    xoffset=1     yoffset=4     xadvance=17    page=0  chnl=0  letter="ĔĕĜĝĤĥĬĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=277    x=189   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="ĕĜĝĤĥĬĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=278    x=945   y=67    width=15    height=27    xoffset=1     yoffset=4     xadvance=17    page=0  chnl=0  letter="ĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=279    x=206   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="ėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=280    x=962   y=67    width=15    height=27    xoffset=1     yoffset=10    xadvance=17    page=0  chnl=0  letter="ĘęŁłŃńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=281    x=223   y=175   width=15    height=22    xoffset=0     yoffset=15    xadvance=15    page=0  chnl=0  letter="ęŁłŃńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=282    x=979   y=67    width=15    height=27    xoffset=1     yoffset=4     xadvance=17    page=0  chnl=0  letter="ĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=283    x=547   y=125   width=15    height=23    xoffset=0     yoffset=8     xadvance=15    page=0  chnl=0  letter="ěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=284    x=941   y=2     width=20    height=28    xoffset=0     yoffset=3     xadvance=21    page=0  chnl=0  letter="ĜĝĤĥĬĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=285    x=382   y=37    width=15    height=28    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="ĝĤĥĬĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=286    x=963   y=2     width=20    height=28    xoffset=0     yoffset=3     xadvance=21    page=0  chnl=0  letter="ĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=287    x=399   y=37    width=15    height=28    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="ğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=288    x=68    y=67    width=20    height=27    xoffset=0     yoffset=4     xadvance=21    page=0  chnl=0  letter="ĠġĦħ"
+char id=289    x=996   y=67    width=15    height=27    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="ġĦħ"
+char id=290    x=985   y=2     width=20    height=28    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="ĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=291    x=534   y=2     width=15    height=29    xoffset=0     yoffset=8     xadvance=16    page=0  chnl=0  letter="ģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=292    x=524   y=67    width=17    height=27    xoffset=1     yoffset=4     xadvance=20    page=0  chnl=0  letter="ĤĥĬĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=293    x=153   y=96    width=13    height=27    xoffset=1     yoffset=4     xadvance=16    page=0  chnl=0  letter="ĥĬĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=294    x=116   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="Ħħ"
+char id=295    x=474   y=223   width=16    height=21    xoffset=-1    yoffset=10    xadvance=16    page=0  chnl=0  letter="ħ"
+char id=296    x=168   y=96    width=11    height=27    xoffset=-3    yoffset=4     xadvance=7     page=0  chnl=0  letter="ĨĩŨũŒœ"
+char id=297    x=891   y=175   width=11    height=22    xoffset=-3    yoffset=9     xadvance=6     page=0  chnl=0  letter="ĩŨũŒœ"
+char id=298    x=915   y=96    width=11    height=26    xoffset=-2    yoffset=5     xadvance=7     page=0  chnl=0  letter="ĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=299    x=204   y=246   width=11    height=21    xoffset=-3    yoffset=10    xadvance=6     page=0  chnl=0  letter="īŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=300    x=193   y=96    width=10    height=27    xoffset=-2    yoffset=4     xadvance=7     page=0  chnl=0  letter="ĬĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=301    x=942   y=175   width=10    height=22    xoffset=-2    yoffset=9     xadvance=6     page=0  chnl=0  letter="ĭĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=302    x=297   y=96    width=7     height=27    xoffset=0     yoffset=10    xadvance=7     page=0  chnl=0  letter="ĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=303    x=306   y=96    width=7     height=27    xoffset=-1    yoffset=10    xadvance=6     page=0  chnl=0  letter="įŲų★☆♥♪♫→←✓✗•№™"
+char id=304    x=347   y=96    width=4     height=27    xoffset=1     yoffset=4     xadvance=7     page=0  chnl=0  letter="İıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=305    x=764   y=269   width=4     height=16    xoffset=1     yoffset=15    xadvance=6     page=0  chnl=0  letter="ıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=306    x=407   y=151   width=19    height=22    xoffset=1     yoffset=9     xadvance=22    page=0  chnl=0  letter="ĲĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=307    x=205   y=96    width=10    height=27    xoffset=1     yoffset=10    xadvance=12    page=0  chnl=0  letter="ĳĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=308    x=310   y=37    width=16    height=28    xoffset=0     yoffset=3     xadvance=15    page=0  chnl=0  letter="ĴĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=309    x=702   y=37    width=10    height=28    xoffset=-2    yoffset=9     xadvance=6     page=0  chnl=0  letter="ĵĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=310    x=304   y=67    width=18    height=27    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="ĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=311    x=121   y=96    width=14    height=27    xoffset=1     yoffset=10    xadvance=15    page=0  chnl=0  letter="ķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=312    x=473   y=269   width=14    height=16    xoffset=1     yoffset=15    xadvance=14    page=0  chnl=0  letter="ĸĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=313    x=2     y=96    width=15    height=27    xoffset=1     yoffset=4     xadvance=16    page=0  chnl=0  letter="ĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=314    x=315   y=96    width=7     height=27    xoffset=1     yoffset=4     xadvance=6     page=0  chnl=0  letter="ĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=315    x=19    y=96    width=15    height=27    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="ĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=316    x=340   y=96    width=5     height=27    xoffset=1     yoffset=10    xadvance=6     page=0  chnl=0  letter="ļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=317    x=823   y=223   width=15    height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="ĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=318    x=251   y=246   width=8     height=21    xoffset=1     yoffset=10    xadvance=8     page=0  chnl=0  letter="ľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=319    x=840   y=223   width=15    height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="ĿŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=320    x=261   y=246   width=8     height=21    xoffset=1     yoffset=10    xadvance=10    page=0  chnl=0  letter="ŀŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=321    x=135   y=223   width=17    height=21    xoffset=-1    yoffset=10    xadvance=16    page=0  chnl=0  letter="ŁłŃńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=322    x=271   y=246   width=8     height=21    xoffset=-1    yoffset=10    xadvance=6     page=0  chnl=0  letter="łŃńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=323    x=543   y=67    width=17    height=27    xoffset=1     yoffset=4     xadvance=20    page=0  chnl=0  letter="ŃńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=324    x=643   y=125   width=13    height=23    xoffset=1     yoffset=8     xadvance=16    page=0  chnl=0  letter="ńŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=325    x=562   y=67    width=17    height=27    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="ŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=326    x=743   y=175   width=13    height=22    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="ņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=327    x=581   y=67    width=17    height=27    xoffset=1     yoffset=4     xadvance=20    page=0  chnl=0  letter="ŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=328    x=758   y=175   width=13    height=22    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="ňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=329    x=887   y=199   width=18    height=21    xoffset=0     yoffset=10    xadvance=19    page=0  chnl=0  letter="ŉŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=330    x=600   y=67    width=17    height=27    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="ŊŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=331    x=773   y=175   width=13    height=22    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="ŋŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=332    x=444   y=96    width=21    height=26    xoffset=0     yoffset=5     xadvance=21    page=0  chnl=0  letter="ŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=333    x=492   y=223   width=16    height=21    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="ōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=334    x=851   y=2     width=21    height=28    xoffset=0     yoffset=3     xadvance=21    page=0  chnl=0  letter="ŎŏŖŗŜŝŦŧŬŭЀѐ"
+char id=335    x=829   y=151   width=16    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="ŏŖŗŜŝŦŧŬŭЀѐ"
+char id=336    x=874   y=2     width=21    height=28    xoffset=0     yoffset=3     xadvance=21    page=0  chnl=0  letter="ŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=337    x=847   y=151   width=16    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="őŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=338    x=739   y=125   width=29    height=22    xoffset=0     yoffset=9     xadvance=30    page=0  chnl=0  letter="Œœ"
+char id=339    x=552   y=246   width=25    height=17    xoffset=0     yoffset=14    xadvance=25    page=0  chnl=0  letter="œ"
+char id=340    x=324   y=67    width=18    height=27    xoffset=1     yoffset=4     xadvance=19    page=0  chnl=0  letter="ŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=341    x=977   y=175   width=9     height=22    xoffset=1     yoffset=9     xadvance=9     page=0  chnl=0  letter="ŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=342    x=344   y=67    width=18    height=27    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="ŖŗŜŝŦŧŬŭЀѐ"
+char id=343    x=988   y=175   width=9     height=22    xoffset=0     yoffset=15    xadvance=9     page=0  chnl=0  letter="ŗŜŝŦŧŬŭЀѐ"
+char id=344    x=364   y=67    width=18    height=27    xoffset=1     yoffset=4     xadvance=19    page=0  chnl=0  letter="ŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=345    x=954   y=175   width=10    height=22    xoffset=0     yoffset=9     xadvance=9     page=0  chnl=0  letter="řŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=346    x=170   y=37    width=18    height=28    xoffset=0     yoffset=3     xadvance=18    page=0  chnl=0  letter="ŚśŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=347    x=581   y=125   width=14    height=23    xoffset=0     yoffset=8     xadvance=14    page=0  chnl=0  letter="śŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=348    x=190   y=37    width=18    height=28    xoffset=0     yoffset=3     xadvance=18    page=0  chnl=0  letter="ŜŝŦŧŬŭЀѐ"
+char id=349    x=441   y=175   width=14    height=22    xoffset=0     yoffset=9     xadvance=14    page=0  chnl=0  letter="ŝŦŧŬŭЀѐ"
+char id=350    x=210   y=37    width=18    height=28    xoffset=0     yoffset=9     xadvance=18    page=0  chnl=0  letter="ŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=351    x=457   y=175   width=14    height=22    xoffset=0     yoffset=15    xadvance=14    page=0  chnl=0  letter="şČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=352    x=384   y=67    width=18    height=27    xoffset=0     yoffset=4     xadvance=18    page=0  chnl=0  letter="ŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=353    x=473   y=175   width=14    height=22    xoffset=0     yoffset=9     xadvance=14    page=0  chnl=0  letter="šŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=354    x=619   y=67    width=17    height=27    xoffset=-1    yoffset=10    xadvance=16    page=0  chnl=0  letter="ŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=355    x=928   y=96    width=10    height=26    xoffset=-1    yoffset=11    xadvance=9     page=0  chnl=0  letter="ţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=356    x=638   y=67    width=17    height=27    xoffset=-1    yoffset=4     xadvance=16    page=0  chnl=0  letter="ŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=357    x=190   y=246   width=12    height=21    xoffset=-1    yoffset=10    xadvance=9     page=0  chnl=0  letter="ťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=358    x=154   y=223   width=17    height=21    xoffset=-1    yoffset=10    xadvance=16    page=0  chnl=0  letter="ŦŧŬŭЀѐ"
+char id=359    x=534   y=246   width=9     height=20    xoffset=-1    yoffset=11    xadvance=9     page=0  chnl=0  letter="ŧŬŭЀѐ"
+char id=360    x=404   y=67    width=18    height=27    xoffset=1     yoffset=4     xadvance=20    page=0  chnl=0  letter="ŨũŒœ"
+char id=361    x=788   y=175   width=13    height=22    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="ũŒœ"
+char id=362    x=725   y=96    width=18    height=26    xoffset=1     yoffset=5     xadvance=20    page=0  chnl=0  letter="ŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=363    x=145   y=246   width=13    height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="ūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=364    x=230   y=37    width=18    height=28    xoffset=1     yoffset=3     xadvance=20    page=0  chnl=0  letter="ŬŭЀѐ"
+char id=365    x=803   y=175   width=13    height=22    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="ŭЀѐ"
+char id=366    x=250   y=37    width=18    height=28    xoffset=1     yoffset=3     xadvance=20    page=0  chnl=0  letter="ŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=367    x=136   y=125   width=13    height=24    xoffset=1     yoffset=7     xadvance=16    page=0  chnl=0  letter="ůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=368    x=270   y=37    width=18    height=28    xoffset=1     yoffset=3     xadvance=20    page=0  chnl=0  letter="ŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=369    x=489   y=175   width=14    height=22    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="űĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=370    x=424   y=67    width=18    height=27    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="Ųų★☆♥♪♫→←✓✗•№™"
+char id=371    x=505   y=175   width=14    height=22    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="ų★☆♥♪♫→←✓✗•№™"
+char id=372    x=731   y=37    width=27    height=27    xoffset=-1    yoffset=4     xadvance=26    page=0  chnl=0  letter="ŴŵŶŷ"
+char id=373    x=2     y=151   width=22    height=22    xoffset=-1    yoffset=9     xadvance=21    page=0  chnl=0  letter="ŵŶŷ"
+char id=374    x=90    y=67    width=20    height=27    xoffset=-1    yoffset=4     xadvance=18    page=0  chnl=0  letter="Ŷŷ"
+char id=375    x=416   y=37    width=15    height=28    xoffset=-1    yoffset=9     xadvance=14    page=0  chnl=0  letter="ŷ"
+char id=376    x=534   y=96    width=20    height=26    xoffset=-1    yoffset=5     xadvance=18    page=0  chnl=0  letter="Ÿ₽↑↓↔"
+char id=377    x=657   y=67    width=17    height=27    xoffset=0     yoffset=4     xadvance=17    page=0  chnl=0  letter="ŹźŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=378    x=597   y=125   width=14    height=23    xoffset=0     yoffset=8     xadvance=13    page=0  chnl=0  letter="źŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=379    x=676   y=67    width=17    height=27    xoffset=0     yoffset=4     xadvance=17    page=0  chnl=0  letter="ŻżĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=380    x=521   y=175   width=14    height=22    xoffset=0     yoffset=9     xadvance=13    page=0  chnl=0  letter="żĞğİıŞşČčĎďĚěŇňŘřŠšŤťŮůĽľĹĺŔŕŐőŰűĂăȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=381    x=695   y=67    width=17    height=27    xoffset=0     yoffset=4     xadvance=17    page=0  chnl=0  letter="ŽžĨĩŨũŒœ"
+char id=382    x=537   y=175   width=14    height=22    xoffset=0     yoffset=9     xadvance=13    page=0  chnl=0  letter="žĨĩŨũŒœ"
+char id=383    x=1010  y=175   width=8     height=22    xoffset=-1    yoffset=9     xadvance=8     page=0  chnl=0  letter="ſȘșȚțΆΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџҐґ–—‘’‚‛“”…€"
+char id=399    x=277   y=151   width=20    height=22    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="ƏəẞŸ₽↑↓↔"
+char id=416    x=174   y=125   width=24    height=23    xoffset=0     yoffset=8     xadvance=25    page=0  chnl=0  letter="ƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=417    x=627   y=246   width=19    height=17    xoffset=0     yoffset=14    xadvance=19    page=0  chnl=0  letter="ơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=431    x=225   y=125   width=23    height=23    xoffset=1     yoffset=8     xadvance=24    page=0  chnl=0  letter="ƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=432    x=648   y=246   width=19    height=17    xoffset=1     yoffset=14    xadvance=20    page=0  chnl=0  letter="ưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=536    x=290   y=37    width=18    height=28    xoffset=0     yoffset=9     xadvance=18    page=0  chnl=0  letter="ȘșȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=537    x=553   y=175   width=14    height=22    xoffset=0     yoffset=15    xadvance=14    page=0  chnl=0  letter="șȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=538    x=714   y=67    width=17    height=27    xoffset=-1    yoffset=10    xadvance=16    page=0  chnl=0  letter="ȚțŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=539    x=951   y=96    width=9     height=26    xoffset=-1    yoffset=11    xadvance=9     page=0  chnl=0  letter="țŢţĐđƠơƯưẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=601    x=865   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="əẞŸ₽↑↓↔"
+char id=902    x=568   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=904    x=319   y=199   width=21    height=21    xoffset=-1    yoffset=10    xadvance=21    page=0  chnl=0  letter="ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=905    x=223   y=199   width=23    height=21    xoffset=-1    yoffset=10    xadvance=24    page=0  chnl=0  letter="ΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=906    x=217   y=246   width=10    height=21    xoffset=-1    yoffset=10    xadvance=11    page=0  chnl=0  letter="ΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=908    x=883   y=125   width=24    height=22    xoffset=-1    yoffset=9     xadvance=24    page=0  chnl=0  letter="ΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=910    x=169   y=199   width=25    height=21    xoffset=-1    yoffset=10    xadvance=24    page=0  chnl=0  letter="ΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=911    x=830   y=125   width=25    height=22    xoffset=-1    yoffset=9     xadvance=24    page=0  chnl=0  letter="ΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=912    x=904   y=175   width=11    height=22    xoffset=-2    yoffset=9     xadvance=7     page=0  chnl=0  letter="ΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=913    x=590   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=914    x=173   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="ΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=915    x=857   y=223   width=15    height=21    xoffset=1     yoffset=10    xadvance=15    page=0  chnl=0  letter="ΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=916    x=612   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="ΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=917    x=874   y=223   width=15    height=21    xoffset=1     yoffset=10    xadvance=17    page=0  chnl=0  letter="ΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=918    x=192   y=223   width=17    height=21    xoffset=0     yoffset=10    xadvance=17    page=0  chnl=0  letter="ΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=919    x=211   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="ΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=920    x=72    y=151   width=21    height=22    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="ΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=921    x=313   y=246   width=4     height=21    xoffset=1     yoffset=10    xadvance=7     page=0  chnl=0  letter="ΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=922    x=907   y=199   width=18    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="ΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=923    x=764   y=199   width=19    height=21    xoffset=-1    yoffset=10    xadvance=17    page=0  chnl=0  letter="ΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=924    x=342   y=199   width=21    height=21    xoffset=1     yoffset=10    xadvance=24    page=0  chnl=0  letter="ΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=925    x=230   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="ΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=926    x=891   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="ΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=927    x=95    y=151   width=21    height=22    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="ΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=928    x=249   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="ΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=929    x=510   y=223   width=16    height=21    xoffset=1     yoffset=10    xadvance=18    page=0  chnl=0  letter="ΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=931    x=528   y=223   width=16    height=21    xoffset=0     yoffset=10    xadvance=17    page=0  chnl=0  letter="ΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=932    x=268   y=223   width=17    height=21    xoffset=-1    yoffset=10    xadvance=16    page=0  chnl=0  letter="ΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=933    x=634   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="ΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=934    x=118   y=151   width=21    height=22    xoffset=0     yoffset=9     xadvance=22    page=0  chnl=0  letter="ΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=935    x=785   y=199   width=19    height=21    xoffset=-1    yoffset=10    xadvance=17    page=0  chnl=0  letter="ΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=936    x=365   y=199   width=21    height=21    xoffset=1     yoffset=10    xadvance=23    page=0  chnl=0  letter="ΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=937    x=141   y=151   width=21    height=22    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="ΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=938    x=239   y=96    width=9     height=27    xoffset=-1    yoffset=4     xadvance=7     page=0  chnl=0  letter="ΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=939    x=112   y=67    width=20    height=27    xoffset=-1    yoffset=4     xadvance=18    page=0  chnl=0  letter="ΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=940    x=717   y=151   width=17    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="άέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=941    x=569   y=175   width=14    height=22    xoffset=0     yoffset=9     xadvance=14    page=0  chnl=0  letter="έήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=942    x=687   y=37    width=13    height=28    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="ήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=943    x=11    y=199   width=6     height=22    xoffset=1     yoffset=9     xadvance=7     page=0  chnl=0  letter="ίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=944    x=585   y=175   width=14    height=22    xoffset=1     yoffset=9     xadvance=15    page=0  chnl=0  letter="ΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=945    x=669   y=246   width=17    height=17    xoffset=0     yoffset=14    xadvance=16    page=0  chnl=0  letter="αβγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=946    x=671   y=37    width=14    height=28    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="βγδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=947    x=601   y=175   width=14    height=22    xoffset=-1    yoffset=15    xadvance=13    page=0  chnl=0  letter="γδεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=948    x=240   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="δεζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=949    x=1000  y=246   width=14    height=17    xoffset=0     yoffset=14    xadvance=14    page=0  chnl=0  letter="εζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=950    x=886   y=96    width=13    height=26    xoffset=0     yoffset=9     xadvance=12    page=0  chnl=0  letter="ζηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=951    x=818   y=175   width=13    height=22    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="ηθικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=952    x=617   y=175   width=14    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="θικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=953    x=749   y=269   width=6     height=16    xoffset=1     yoffset=15    xadvance=7     page=0  chnl=0  letter="ικλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=954    x=489   y=269   width=14    height=16    xoffset=1     yoffset=15    xadvance=14    page=0  chnl=0  letter="κλμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=955    x=865   y=151   width=16    height=22    xoffset=-1    yoffset=9     xadvance=15    page=0  chnl=0  letter="λμνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=956    x=833   y=175   width=13    height=22    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="μνξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=957    x=505   y=269   width=14    height=16    xoffset=-1    yoffset=15    xadvance=14    page=0  chnl=0  letter="νξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=958    x=901   y=96    width=12    height=26    xoffset=0     yoffset=9     xadvance=12    page=0  chnl=0  letter="ξοπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=959    x=742   y=246   width=16    height=17    xoffset=0     yoffset=14    xadvance=16    page=0  chnl=0  letter="οπρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=960    x=242   y=269   width=17    height=16    xoffset=0     yoffset=15    xadvance=17    page=0  chnl=0  letter="πρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=961    x=257   y=175   width=15    height=22    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="ρςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=962    x=68    y=246   width=14    height=21    xoffset=0     yoffset=14    xadvance=14    page=0  chnl=0  letter="ςστυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=963    x=370   y=269   width=16    height=16    xoffset=0     yoffset=15    xadvance=16    page=0  chnl=0  letter="στυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=964    x=521   y=269   width=14    height=16    xoffset=-1    yoffset=15    xadvance=13    page=0  chnl=0  letter="τυφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=965    x=537   y=269   width=14    height=16    xoffset=1     yoffset=15    xadvance=15    page=0  chnl=0  letter="υφχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=966    x=556   y=96    width=20    height=26    xoffset=0     yoffset=11    xadvance=20    page=0  chnl=0  letter="φχψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=967    x=274   y=175   width=15    height=22    xoffset=-1    yoffset=15    xadvance=13    page=0  chnl=0  letter="χψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=968    x=764   y=96    width=17    height=26    xoffset=1     yoffset=11    xadvance=19    page=0  chnl=0  letter="ψωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=969    x=159   y=269   width=20    height=16    xoffset=0     yoffset=15    xadvance=20    page=0  chnl=0  letter="ωϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=970    x=999   y=175   width=9     height=22    xoffset=-2    yoffset=9     xadvance=7     page=0  chnl=0  letter="ϊϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=971    x=633   y=175   width=14    height=22    xoffset=1     yoffset=9     xadvance=15    page=0  chnl=0  letter="ϋόύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=972    x=883   y=151   width=16    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="όύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=973    x=649   y=175   width=14    height=22    xoffset=1     yoffset=9     xadvance=15    page=0  chnl=0  letter="ύώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=974    x=299   y=151   width=20    height=22    xoffset=0     yoffset=9     xadvance=20    page=0  chnl=0  letter="ώĀāĒēĪīŪūŌōĢģĶķĻļŅņĖėĮįŲų★☆♥♪♫→←✓✗•№™"
+char id=1024   x=36    y=96    width=15    height=27    xoffset=1     yoffset=4     xadvance=17    page=0  chnl=0  letter="Ѐѐ"
+char id=1025   x=836   y=96    width=15    height=26    xoffset=1     yoffset=5     xadvance=17    page=0  chnl=0  letter="ЁёЄєІіЇїҐґЎў"
+char id=1026   x=164   y=151   width=21    height=22    xoffset=-1    yoffset=9     xadvance=21    page=0  chnl=0  letter="ЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=1027   x=137   y=96    width=14    height=27    xoffset=1     yoffset=4     xadvance=15    page=0  chnl=0  letter="ЃѓЌќЅѕ"
+char id=1028   x=428   y=151   width=19    height=22    xoffset=0     yoffset=9     xadvance=20    page=0  chnl=0  letter="ЄєІіЇїҐґЎў"
+char id=1029   x=677   y=151   width=18    height=22    xoffset=0     yoffset=9     xadvance=18    page=0  chnl=0  letter="Ѕѕ"
+char id=1030   x=319   y=246   width=4     height=21    xoffset=1     yoffset=10    xadvance=7     page=0  chnl=0  letter="ІіЇїҐґЎў"
+char id=1031   x=962   y=96    width=9     height=26    xoffset=-1    yoffset=5     xadvance=7     page=0  chnl=0  letter="ЇїҐґЎў"
+char id=1032   x=848   y=175   width=13    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="ЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=1033   x=706   y=125   width=31    height=22    xoffset=-1    yoffset=9     xadvance=31    page=0  chnl=0  letter="ЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=1034   x=19    y=199   width=30    height=21    xoffset=1     yoffset=10    xadvance=31    page=0  chnl=0  letter="ЊњЋћЏџЃѓЌќЅѕ"
+char id=1035   x=388   y=199   width=21    height=21    xoffset=-1    yoffset=10    xadvance=21    page=0  chnl=0  letter="ЋћЏџЃѓЌќЅѕ"
+char id=1036   x=444   y=67    width=18    height=27    xoffset=1     yoffset=4     xadvance=19    page=0  chnl=0  letter="ЌќЅѕ"
+char id=1037   x=464   y=67    width=18    height=27    xoffset=1     yoffset=4     xadvance=20    page=0  chnl=0  letter="ЍѝӢӣĊċĠġĦħ"
+char id=1038   x=243   y=67    width=19    height=27    xoffset=-1    yoffset=4     xadvance=17    page=0  chnl=0  letter="Ўў"
+char id=1039   x=783   y=96    width=17    height=26    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="ЏџЃѓЌќЅѕ"
+char id=1040   x=656   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1041   x=287   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="БВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1042   x=306   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="ВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1043   x=84    y=246   width=14    height=21    xoffset=1     yoffset=10    xadvance=15    page=0  chnl=0  letter="ГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1044   x=467   y=96    width=21    height=26    xoffset=-1    yoffset=10    xadvance=20    page=0  chnl=0  letter="ДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1045   x=908   y=223   width=15    height=21    xoffset=1     yoffset=10    xadvance=17    page=0  chnl=0  letter="ЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1046   x=51    y=199   width=29    height=21    xoffset=-1    yoffset=10    xadvance=28    page=0  chnl=0  letter="ЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1047   x=697   y=151   width=18    height=22    xoffset=0     yoffset=9     xadvance=18    page=0  chnl=0  letter="ЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1048   x=927   y=199   width=18    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="ИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1049   x=484   y=67    width=18    height=27    xoffset=1     yoffset=4     xadvance=20    page=0  chnl=0  letter="ЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1050   x=947   y=199   width=18    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="КЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1051   x=449   y=151   width=19    height=22    xoffset=-1    yoffset=9     xadvance=20    page=0  chnl=0  letter="ЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1052   x=411   y=199   width=21    height=21    xoffset=1     yoffset=10    xadvance=24    page=0  chnl=0  letter="МНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1053   x=325   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="НОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1054   x=187   y=151   width=21    height=22    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="ОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1055   x=344   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="ПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1056   x=546   y=223   width=16    height=21    xoffset=1     yoffset=10    xadvance=18    page=0  chnl=0  letter="РСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1057   x=470   y=151   width=19    height=22    xoffset=0     yoffset=9     xadvance=20    page=0  chnl=0  letter="СТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1058   x=363   y=223   width=17    height=21    xoffset=-1    yoffset=10    xadvance=16    page=0  chnl=0  letter="ТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1059   x=491   y=151   width=19    height=22    xoffset=-1    yoffset=9     xadvance=17    page=0  chnl=0  letter="УФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1060   x=909   y=125   width=24    height=22    xoffset=0     yoffset=9     xadvance=24    page=0  chnl=0  letter="ФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1061   x=806   y=199   width=19    height=21    xoffset=-1    yoffset=10    xadvance=17    page=0  chnl=0  letter="ХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1062   x=600   y=96    width=19    height=26    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=0  letter="ЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1063   x=564   y=223   width=16    height=21    xoffset=0     yoffset=10    xadvance=18    page=0  chnl=0  letter="ЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1064   x=196   y=199   width=25    height=21    xoffset=1     yoffset=10    xadvance=28    page=0  chnl=0  letter="ШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1065   x=365   y=96    width=28    height=26    xoffset=1     yoffset=10    xadvance=29    page=0  chnl=0  letter="ЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1066   x=248   y=199   width=22    height=21    xoffset=-1    yoffset=10    xadvance=22    page=0  chnl=0  letter="ЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1067   x=272   y=199   width=22    height=21    xoffset=1     yoffset=10    xadvance=24    page=0  chnl=0  letter="ЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1068   x=382   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=18    page=0  chnl=0  letter="ЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1069   x=512   y=151   width=19    height=22    xoffset=0     yoffset=9     xadvance=20    page=0  chnl=0  letter="ЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1070   x=801   y=125   width=27    height=22    xoffset=1     yoffset=9     xadvance=29    page=0  chnl=0  letter="ЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1071   x=967   y=199   width=18    height=21    xoffset=-1    yoffset=10    xadvance=19    page=0  chnl=0  letter="ЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1072   x=882   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="абвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1073   x=291   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="бвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1074   x=553   y=269   width=14    height=16    xoffset=1     yoffset=15    xadvance=15    page=0  chnl=0  letter="вгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1075   x=725   y=269   width=11    height=16    xoffset=1     yoffset=15    xadvance=12    page=0  chnl=0  letter="гдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1076   x=356   y=246   width=17    height=20    xoffset=-1    yoffset=15    xadvance=16    page=0  chnl=0  letter="дежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1077   x=899   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="ежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1078   x=61    y=269   width=23    height=16    xoffset=-1    yoffset=15    xadvance=22    page=0  chnl=0  letter="жзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1079   x=2     y=269   width=14    height=17    xoffset=0     yoffset=14    xadvance=14    page=0  chnl=0  letter="зийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1080   x=569   y=269   width=14    height=16    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="ийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1081   x=665   y=175   width=14    height=22    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="йклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1082   x=585   y=269   width=14    height=16    xoffset=1     yoffset=15    xadvance=15    page=0  chnl=0  letter="клмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1083   x=423   y=269   width=15    height=16    xoffset=-1    yoffset=15    xadvance=16    page=0  chnl=0  letter="лмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1084   x=261   y=269   width=17    height=16    xoffset=1     yoffset=15    xadvance=19    page=0  chnl=0  letter="мнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1085   x=601   y=269   width=14    height=16    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="нопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1086   x=760   y=246   width=16    height=17    xoffset=0     yoffset=14    xadvance=16    page=0  chnl=0  letter="опрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1087   x=695   y=269   width=13    height=16    xoffset=1     yoffset=15    xadvance=15    page=0  chnl=0  letter="прстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1088   x=308   y=175   width=15    height=22    xoffset=1     yoffset=15    xadvance=17    page=0  chnl=0  letter="рстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1089   x=916   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="стуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1090   x=617   y=269   width=14    height=16    xoffset=-1    yoffset=15    xadvance=13    page=0  chnl=0  letter="туфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1091   x=325   y=175   width=15    height=22    xoffset=-1    yoffset=15    xadvance=14    page=0  chnl=0  letter="уфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1092   x=864   y=37    width=22    height=27    xoffset=0     yoffset=10    xadvance=22    page=0  chnl=0  letter="фхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1093   x=388   y=269   width=16    height=16    xoffset=-1    yoffset=15    xadvance=15    page=0  chnl=0  letter="хцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1094   x=411   y=246   width=15    height=20    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="цчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1095   x=710   y=269   width=13    height=16    xoffset=0     yoffset=15    xadvance=15    page=0  chnl=0  letter="чшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1096   x=181   y=269   width=19    height=16    xoffset=1     yoffset=15    xadvance=22    page=0  chnl=0  letter="шщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1097   x=331   y=246   width=23    height=20    xoffset=1     yoffset=15    xadvance=23    page=0  chnl=0  letter="щъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1098   x=202   y=269   width=18    height=16    xoffset=-1    yoffset=15    xadvance=17    page=0  chnl=0  letter="ъыьэюяЁёЄєІіЇїҐґЎў"
+char id=1099   x=222   y=269   width=18    height=16    xoffset=1     yoffset=15    xadvance=20    page=0  chnl=0  letter="ыьэюяЁёЄєІіЇїҐґЎў"
+char id=1100   x=633   y=269   width=14    height=16    xoffset=1     yoffset=15    xadvance=15    page=0  chnl=0  letter="ьэюяЁёЄєІіЇїҐґЎў"
+char id=1101   x=933   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="эюяЁёЄєІіЇїҐґЎў"
+char id=1102   x=605   y=246   width=20    height=17    xoffset=1     yoffset=14    xadvance=22    page=0  chnl=0  letter="юяЁёЄєІіЇїҐґЎў"
+char id=1103   x=440   y=269   width=15    height=16    xoffset=-1    yoffset=15    xadvance=15    page=0  chnl=0  letter="яЁёЄєІіЇїҐґЎў"
+char id=1104   x=342   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=15    page=0  chnl=0  letter="ѐ"
+char id=1105   x=925   y=223   width=15    height=21    xoffset=0     yoffset=10    xadvance=15    page=0  chnl=0  letter="ёЄєІіЇїҐґЎў"
+char id=1106   x=789   y=67    width=16    height=27    xoffset=-2    yoffset=10    xadvance=16    page=0  chnl=0  letter="ђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=1107   x=917   y=175   width=11    height=22    xoffset=1     yoffset=9     xadvance=12    page=0  chnl=0  letter="ѓЌќЅѕ"
+char id=1108   x=950   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="єІіЇїҐґЎў"
+char id=1109   x=18    y=269   width=14    height=17    xoffset=0     yoffset=14    xadvance=14    page=0  chnl=0  letter="ѕ"
+char id=1110   x=325   y=246   width=4     height=21    xoffset=1     yoffset=10    xadvance=6     page=0  chnl=0  letter="іЇїҐґЎў"
+char id=1111   x=2     y=199   width=7     height=22    xoffset=0     yoffset=9     xadvance=7     page=0  chnl=0  letter="їҐґЎў"
+char id=1112   x=332   y=96    width=6     height=27    xoffset=-1    yoffset=10    xadvance=6     page=0  chnl=0  letter="јЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=1113   x=34    y=269   width=25    height=16    xoffset=-1    yoffset=15    xadvance=25    page=0  chnl=0  letter="љЊњЋћЏџЃѓЌќЅѕ"
+char id=1114   x=86    y=269   width=23    height=16    xoffset=1     yoffset=15    xadvance=25    page=0  chnl=0  letter="њЋћЏџЃѓЌќЅѕ"
+char id=1115   x=582   y=223   width=16    height=21    xoffset=-2    yoffset=10    xadvance=16    page=0  chnl=0  letter="ћЏџЃѓЌќЅѕ"
+char id=1116   x=681   y=175   width=14    height=22    xoffset=1     yoffset=9     xadvance=15    page=0  chnl=0  letter="ќЅѕ"
+char id=1117   x=697   y=175   width=14    height=22    xoffset=1     yoffset=9     xadvance=16    page=0  chnl=0  letter="ѝӢӣĊċĠġĦħ"
+char id=1118   x=433   y=37    width=15    height=28    xoffset=-1    yoffset=9     xadvance=14    page=0  chnl=0  letter="ў"
+char id=1119   x=495   y=246   width=13    height=20    xoffset=1     yoffset=15    xadvance=15    page=0  chnl=0  letter="џЃѓЌќЅѕ"
+char id=1168   x=870   y=96    width=14    height=26    xoffset=1     yoffset=5     xadvance=15    page=0  chnl=0  letter="ҐґЎў"
+char id=1169   x=510   y=246   width=11    height=20    xoffset=1     yoffset=11    xadvance=12    page=0  chnl=0  letter="ґЎў"
+char id=1170   x=987   y=199   width=18    height=21    xoffset=0     yoffset=10    xadvance=17    page=0  chnl=0  letter="ҒғҚқҢңӨөҰұҮүҺһҶҷҲҳӮӯ"
+char id=1171   x=649   y=269   width=14    height=16    xoffset=0     yoffset=15    xadvance=13    page=0  chnl=0  letter="ғҚқҢңӨөҰұҮүҺһҶҷҲҳӮӯ"
+char id=1178   x=621   y=96    width=19    height=26    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="ҚқҢңӨөҰұҮүҺһҶҷҲҳӮӯ"
+char id=1179   x=428   y=246   width=15    height=20    xoffset=1     yoffset=15    xadvance=15    page=0  chnl=0  letter="қҢңӨөҰұҮүҺһҶҷҲҳӮӯ"
+char id=1186   x=578   y=96    width=20    height=26    xoffset=1     yoffset=10    xadvance=21    page=0  chnl=0  letter="ҢңӨөҰұҮүҺһҶҷҲҳӮӯ"
+char id=1187   x=375   y=246   width=16    height=20    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="ңӨөҰұҮүҺһҶҷҲҳӮӯ"
+char id=1198   x=678   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="ҮүҺһҶҷҲҳӮӯ"
+char id=1199   x=942   y=223   width=15    height=21    xoffset=-1    yoffset=16    xadvance=14    page=0  chnl=0  letter="үҺһҶҷҲҳӮӯ"
+char id=1200   x=700   y=199   width=20    height=21    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="ҰұҮүҺһҶҷҲҳӮӯ"
+char id=1201   x=959   y=223   width=15    height=21    xoffset=-1    yoffset=16    xadvance=14    page=0  chnl=0  letter="ұҮүҺһҶҷҲҳӮӯ"
+char id=1202   x=642   y=96    width=19    height=26    xoffset=-1    yoffset=10    xadvance=18    page=0  chnl=0  letter="ҲҳӮӯ"
+char id=1203   x=393   y=246   width=16    height=20    xoffset=-1    yoffset=15    xadvance=15    page=0  chnl=0  letter="ҳӮӯ"
+char id=1206   x=663   y=96    width=19    height=26    xoffset=0     yoffset=10    xadvance=19    page=0  chnl=0  letter="ҶҷҲҳӮӯ"
+char id=1207   x=445   y=246   width=15    height=20    xoffset=0     yoffset=15    xadvance=15    page=0  chnl=0  letter="ҷҲҳӮӯ"
+char id=1210   x=600   y=223   width=16    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="ҺһҶҷҲҳӮӯ"
+char id=1211   x=160   y=246   width=13    height=21    xoffset=1     yoffset=10    xadvance=16    page=0  chnl=0  letter="һҶҷҲҳӮӯ"
+char id=1240   x=321   y=151   width=20    height=22    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="ӘәҒғҚқҢңӨөҰұҮүҺһҶҷҲҳӮӯ"
+char id=1241   x=967   y=246   width=15    height=17    xoffset=0     yoffset=14    xadvance=15    page=0  chnl=0  letter="әҒғҚқҢңӨөҰұҮүҺһҶҷҲҳӮӯ"
+char id=1250   x=973   y=96    width=18    height=25    xoffset=1     yoffset=6     xadvance=20    page=0  chnl=0  letter="ӢӣĊċĠġĦħ"
+char id=1251   x=479   y=246   width=14    height=20    xoffset=1     yoffset=11    xadvance=16    page=0  chnl=0  letter="ӣĊċĠġĦħ"
+char id=1256   x=210   y=151   width=21    height=22    xoffset=0     yoffset=9     xadvance=21    page=0  chnl=0  letter="ӨөҰұҮүҺһҶҷҲҳӮӯ"
+char id=1257   x=778   y=246   width=16    height=17    xoffset=0     yoffset=14    xadvance=16    page=0  chnl=0  letter="өҰұҮүҺһҶҷҲҳӮӯ"
+char id=1262   x=684   y=96    width=19    height=26    xoffset=-1    yoffset=5     xadvance=17    page=0  chnl=0  letter="Ӯӯ"
+char id=1263   x=853   y=96    width=15    height=26    xoffset=-1    yoffset=11    xadvance=14    page=0  chnl=0  letter="ӯ"
+char id=7838   x=401   y=223   width=17    height=21    xoffset=1     yoffset=10    xadvance=19    page=0  chnl=0  letter="ẞĀāĂăĄąĆćČčĎďĐđĒēĖėĘęĚěĞğĢģĪīĮįİıĶķĹĺĻļĽľŁłŃńŅņŇňŌōŐőŔŕŖŗŘřŚśŞşŠšȘșȚțŤťŪūŮůŰűŲųŹźŻżŽžАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюяЄєІіЇїҐґЎўЂђЈјЉљЊњЋћЏџЃѓЅѕЌќ¡¿«»‹›‘’“”„‚…–—•·"
+char id=7840   x=134   y=67    width=20    height=27    xoffset=-1    yoffset=9     xadvance=19    page=0  chnl=0  letter="ẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7841   x=976   y=223   width=15    height=21    xoffset=0     yoffset=15    xadvance=16    page=0  chnl=0  letter="ạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7842   x=2     y=37    width=20    height=28    xoffset=-1    yoffset=3     xadvance=19    page=0  chnl=0  letter="ẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7843   x=102   y=125   width=15    height=24    xoffset=0     yoffset=7     xadvance=16    page=0  chnl=0  letter="ảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7844   x=435   y=2     width=20    height=29    xoffset=-1    yoffset=2     xadvance=19    page=0  chnl=0  letter="ẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7845   x=807   y=67    width=16    height=27    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=0  letter="ấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7846   x=457   y=2     width=20    height=29    xoffset=-1    yoffset=2     xadvance=19    page=0  chnl=0  letter="ẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7847   x=53    y=96    width=15    height=27    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=0  letter="ầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7848   x=132   y=2     width=20    height=30    xoffset=-1    yoffset=1     xadvance=19    page=0  chnl=0  letter="ẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7849   x=450   y=37    width=15    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7850   x=154   y=2     width=20    height=30    xoffset=-1    yoffset=1     xadvance=19    page=0  chnl=0  letter="ẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7851   x=467   y=37    width=15    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7852   x=47    y=2     width=20    height=32    xoffset=-1    yoffset=4     xadvance=19    page=0  chnl=0  letter="ẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7853   x=484   y=37    width=15    height=28    xoffset=0     yoffset=8     xadvance=16    page=0  chnl=0  letter="ậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7854   x=176   y=2     width=20    height=30    xoffset=-1    yoffset=1     xadvance=19    page=0  chnl=0  letter="ẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7855   x=501   y=37    width=15    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7856   x=198   y=2     width=20    height=30    xoffset=-1    yoffset=1     xadvance=19    page=0  chnl=0  letter="ẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7857   x=518   y=37    width=15    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7858   x=220   y=2     width=20    height=30    xoffset=-1    yoffset=1     xadvance=19    page=0  chnl=0  letter="ẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7859   x=535   y=37    width=15    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7860   x=242   y=2     width=20    height=30    xoffset=-1    yoffset=1     xadvance=19    page=0  chnl=0  letter="ẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7861   x=552   y=37    width=15    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7862   x=2     y=2     width=20    height=33    xoffset=-1    yoffset=3     xadvance=19    page=0  chnl=0  letter="ẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7863   x=569   y=37    width=15    height=28    xoffset=0     yoffset=8     xadvance=16    page=0  chnl=0  letter="ặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7864   x=70    y=96    width=15    height=27    xoffset=2     yoffset=9     xadvance=19    page=0  chnl=0  letter="ẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7865   x=993   y=223   width=15    height=21    xoffset=0     yoffset=15    xadvance=16    page=0  chnl=0  letter="ẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7866   x=586   y=37    width=15    height=28    xoffset=2     yoffset=3     xadvance=19    page=0  chnl=0  letter="ẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7867   x=119   y=125   width=15    height=24    xoffset=0     yoffset=7     xadvance=16    page=0  chnl=0  letter="ẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7868   x=87    y=96    width=15    height=27    xoffset=2     yoffset=4     xadvance=19    page=0  chnl=0  letter="ẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7869   x=359   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="ẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7870   x=499   y=2     width=16    height=29    xoffset=2     yoffset=2     xadvance=19    page=0  chnl=0  letter="ẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7871   x=733   y=67    width=17    height=27    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=0  letter="ếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7872   x=551   y=2     width=15    height=29    xoffset=2     yoffset=2     xadvance=19    page=0  chnl=0  letter="ỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7873   x=104   y=96    width=15    height=27    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=0  letter="ềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7874   x=264   y=2     width=15    height=30    xoffset=2     yoffset=1     xadvance=19    page=0  chnl=0  letter="ỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7875   x=603   y=37    width=15    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7876   x=281   y=2     width=15    height=30    xoffset=2     yoffset=1     xadvance=19    page=0  chnl=0  letter="ỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7877   x=620   y=37    width=15    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7878   x=69    y=2     width=15    height=32    xoffset=2     yoffset=4     xadvance=19    page=0  chnl=0  letter="ỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7879   x=637   y=37    width=15    height=28    xoffset=0     yoffset=8     xadvance=16    page=0  chnl=0  letter="ệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7880   x=723   y=37    width=6     height=28    xoffset=1     yoffset=3     xadvance=8     page=0  chnl=0  letter="ỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7881   x=166   y=125   width=6     height=24    xoffset=1     yoffset=7     xadvance=8     page=0  chnl=0  letter="ỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7882   x=353   y=96    width=4     height=27    xoffset=2     yoffset=9     xadvance=8     page=0  chnl=0  letter="ỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7883   x=359   y=96    width=4     height=27    xoffset=1     yoffset=9     xadvance=6     page=0  chnl=0  letter="ịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7884   x=934   y=37    width=21    height=27    xoffset=0     yoffset=9     xadvance=22    page=0  chnl=0  letter="ỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7885   x=618   y=223   width=16    height=21    xoffset=0     yoffset=15    xadvance=16    page=0  chnl=0  letter="ọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7886   x=366   y=2     width=21    height=29    xoffset=0     yoffset=2     xadvance=22    page=0  chnl=0  letter="ỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7887   x=67    y=125   width=16    height=24    xoffset=0     yoffset=7     xadvance=16    page=0  chnl=0  letter="ỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7888   x=389   y=2     width=21    height=29    xoffset=0     yoffset=2     xadvance=22    page=0  chnl=0  letter="ỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7889   x=752   y=67    width=17    height=27    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=0  letter="ốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7890   x=412   y=2     width=21    height=29    xoffset=0     yoffset=2     xadvance=22    page=0  chnl=0  letter="ỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7891   x=825   y=67    width=16    height=27    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=0  letter="ồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7892   x=86    y=2     width=21    height=30    xoffset=0     yoffset=1     xadvance=22    page=0  chnl=0  letter="ỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7893   x=328   y=37    width=16    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7894   x=109   y=2     width=21    height=30    xoffset=0     yoffset=1     xadvance=22    page=0  chnl=0  letter="ỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7895   x=346   y=37    width=16    height=28    xoffset=0     yoffset=3     xadvance=16    page=0  chnl=0  letter="ỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7896   x=24    y=2     width=21    height=32    xoffset=0     yoffset=4     xadvance=22    page=0  chnl=0  letter="ỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7897   x=364   y=37    width=16    height=28    xoffset=0     yoffset=8     xadvance=16    page=0  chnl=0  letter="ộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7898   x=652   y=2     width=24    height=28    xoffset=0     yoffset=3     xadvance=25    page=0  chnl=0  letter="ỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7899   x=273   y=125   width=19    height=23    xoffset=0     yoffset=8     xadvance=19    page=0  chnl=0  letter="ớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7900   x=678   y=2     width=24    height=28    xoffset=0     yoffset=3     xadvance=25    page=0  chnl=0  letter="ỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7901   x=294   y=125   width=19    height=23    xoffset=0     yoffset=8     xadvance=19    page=0  chnl=0  letter="ờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7902   x=315   y=2     width=24    height=29    xoffset=0     yoffset=2     xadvance=25    page=0  chnl=0  letter="ỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7903   x=25    y=125   width=19    height=24    xoffset=0     yoffset=7     xadvance=19    page=0  chnl=0  letter="ởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7904   x=787   y=37    width=24    height=27    xoffset=0     yoffset=4     xadvance=25    page=0  chnl=0  letter="ỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7905   x=533   y=151   width=19    height=22    xoffset=0     yoffset=9     xadvance=19    page=0  chnl=0  letter="ỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7906   x=813   y=37    width=24    height=27    xoffset=0     yoffset=9     xadvance=25    page=0  chnl=0  letter="ỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7907   x=554   y=151   width=19    height=22    xoffset=0     yoffset=14    xadvance=19    page=0  chnl=0  letter="ợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7908   x=504   y=67    width=18    height=27    xoffset=1     yoffset=9     xadvance=20    page=0  chnl=0  letter="ỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7909   x=175   y=246   width=13    height=21    xoffset=1     yoffset=15    xadvance=16    page=0  chnl=0  letter="ụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7910   x=479   y=2     width=18    height=29    xoffset=1     yoffset=2     xadvance=20    page=0  chnl=0  letter="ỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7911   x=151   y=125   width=13    height=24    xoffset=1     yoffset=7     xadvance=16    page=0  chnl=0  letter="ủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7912   x=730   y=2     width=23    height=28    xoffset=1     yoffset=3     xadvance=24    page=0  chnl=0  letter="ỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7913   x=315   y=125   width=19    height=23    xoffset=1     yoffset=8     xadvance=20    page=0  chnl=0  letter="ứỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7914   x=755   y=2     width=23    height=28    xoffset=1     yoffset=3     xadvance=24    page=0  chnl=0  letter="ỪừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7915   x=336   y=125   width=19    height=23    xoffset=1     yoffset=8     xadvance=20    page=0  chnl=0  letter="ừỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7916   x=341   y=2     width=23    height=29    xoffset=1     yoffset=2     xadvance=24    page=0  chnl=0  letter="ỬửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7917   x=46    y=125   width=19    height=24    xoffset=1     yoffset=7     xadvance=20    page=0  chnl=0  letter="ửỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7918   x=839   y=37    width=23    height=27    xoffset=1     yoffset=4     xadvance=24    page=0  chnl=0  letter="ỮữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7919   x=575   y=151   width=19    height=22    xoffset=1     yoffset=9     xadvance=20    page=0  chnl=0  letter="ữỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7920   x=780   y=2     width=23    height=28    xoffset=1     yoffset=8     xadvance=24    page=0  chnl=0  letter="ỰựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7921   x=596   y=151   width=19    height=22    xoffset=1     yoffset=14    xadvance=20    page=0  chnl=0  letter="ựỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7922   x=156   y=67    width=20    height=27    xoffset=-1    yoffset=4     xadvance=18    page=0  chnl=0  letter="ỲỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7923   x=568   y=2     width=15    height=29    xoffset=-1    yoffset=8     xadvance=14    page=0  chnl=0  letter="ỳỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7924   x=178   y=67    width=20    height=27    xoffset=-1    yoffset=9     xadvance=19    page=0  chnl=0  letter="ỴỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7925   x=564   y=125   width=15    height=23    xoffset=-1    yoffset=15    xadvance=14    page=0  chnl=0  letter="ỵỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7926   x=24    y=37    width=20    height=28    xoffset=-1    yoffset=3     xadvance=19    page=0  chnl=0  letter="ỶỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7927   x=298   y=2     width=15    height=30    xoffset=-1    yoffset=7     xadvance=14    page=0  chnl=0  letter="ỷỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7928   x=200   y=67    width=20    height=27    xoffset=-1    yoffset=4     xadvance=19    page=0  chnl=0  letter="ỸỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=7929   x=654   y=37    width=15    height=28    xoffset=-1    yoffset=9     xadvance=14    page=0  chnl=0  letter="ỹЂђЈјЉљЊњЋћЏџЃѓЌќЅѕ"
+char id=8211   x=192   y=288   width=16    height=4     xoffset=-1    yoffset=20    xadvance=14    page=0  chnl=0  letter="–—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=8212   x=168   y=288   width=22    height=4     xoffset=3     yoffset=20    xadvance=28    page=0  chnl=0  letter="—‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=8216   x=66    y=288   width=5     height=9     xoffset=1     yoffset=9     xadvance=8     page=0  chnl=0  letter="‘’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=8217   x=73    y=288   width=5     height=9     xoffset=1     yoffset=9     xadvance=8     page=0  chnl=0  letter="’“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=8218   x=80    y=288   width=5     height=9     xoffset=1     yoffset=26    xadvance=8     page=0  chnl=0  letter="‚‹›ŴŵŶŷ"
+char id=8220   x=14    y=288   width=10    height=9     xoffset=1     yoffset=9     xadvance=12    page=0  chnl=0  letter="“”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=8221   x=26    y=288   width=10    height=9     xoffset=1     yoffset=9     xadvance=12    page=0  chnl=0  letter="”…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=8222   x=38    y=288   width=10    height=9     xoffset=1     yoffset=26    xadvance=12    page=0  chnl=0  letter="„‚‹›ŴŵŶŷ"
+char id=8226   x=92    y=288   width=8     height=8     xoffset=1     yoffset=16    xadvance=10    page=0  chnl=0  letter="•№™"
+char id=8230   x=129   y=288   width=23    height=5     xoffset=2     yoffset=26    xadvance=28    page=0  chnl=0  letter="…€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=8249   x=978   y=269   width=6     height=11    xoffset=0     yoffset=17    xadvance=7     page=0  chnl=0  letter="‹›ŴŵŶŷ"
+char id=8250   x=986   y=269   width=6     height=11    xoffset=1     yoffset=17    xadvance=7     page=0  chnl=0  letter="›ŴŵŶŷ"
+char id=8361   x=770   y=125   width=29    height=22    xoffset=0     yoffset=9     xadvance=29    page=0  chnl=0  letter="₩₹₫₺×÷≠≈"
+char id=8362   x=736   y=151   width=17    height=22    xoffset=0     yoffset=9     xadvance=18    page=0  chnl=0  letter="₪¢№♥♡★☆✓✔✕✖→←↑↓↔∞♪♫"
+char id=8363   x=993   y=96    width=16    height=25    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="₫₺×÷≠≈"
+char id=8364   x=755   y=151   width=17    height=22    xoffset=-1    yoffset=9     xadvance=16    page=0  chnl=0  letter="€АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяЁёЄєІіЇїҐґЎў"
+char id=8377   x=2     y=246   width=15    height=21    xoffset=0     yoffset=10    xadvance=15    page=0  chnl=0  letter="₹₫₺×÷≠≈"
+char id=8378   x=376   y=175   width=15    height=22    xoffset=0     yoffset=9     xadvance=16    page=0  chnl=0  letter="₺×÷≠≈"
+char id=8381   x=19    y=246   width=15    height=21    xoffset=0     yoffset=10    xadvance=16    page=0  chnl=0  letter="₽↑↓↔"
+char id=8470   x=140   y=199   width=27    height=21    xoffset=1     yoffset=10    xadvance=29    page=0  chnl=0  letter="№™"
+char id=8482   x=829   y=269   width=26    height=13    xoffset=1     yoffset=10    xadvance=28    page=0  chnl=0  letter="™"
+char id=8592   x=857   y=269   width=23    height=13    xoffset=2     yoffset=14    xadvance=28    page=0  chnl=0  letter="←✓✗•№™"
+char id=8593   x=658   y=125   width=13    height=23    xoffset=2     yoffset=8     xadvance=18    page=0  chnl=0  letter="↑↓↔∞♪♫"
+char id=8594   x=882   y=269   width=23    height=13    xoffset=2     yoffset=14    xadvance=28    page=0  chnl=0  letter="→←✓✗•№™"
+char id=8595   x=673   y=125   width=13    height=23    xoffset=2     yoffset=10    xadvance=18    page=0  chnl=0  letter="↓↔∞♪♫"
+char id=8596   x=907   y=269   width=25    height=12    xoffset=0     yoffset=16    xadvance=26    page=0  chnl=0  letter="↔∞♪♫"
+char id=8776   x=934   y=269   width=16    height=11    xoffset=0     yoffset=18    xadvance=17    page=0  chnl=0  letter="≈"
+char id=8800   x=796   y=246   width=16    height=17    xoffset=0     yoffset=15    xadvance=17    page=0  chnl=0  letter="≠≈"
+char id=9733   x=590   y=2     width=29    height=28    xoffset=-1    yoffset=5     xadvance=28    page=0  chnl=0  letter="★☆♥♪♫→←✓✗•№™"
+char id=9734   x=621   y=2     width=29    height=28    xoffset=-1    yoffset=5     xadvance=28    page=0  chnl=0  letter="☆♥♪♫→←✓✗•№™"
+char id=9825   x=760   y=37    width=25    height=27    xoffset=1     yoffset=7     xadvance=28    page=0  chnl=0  letter="♡★☆✓✔✕✖→←↑↓↔∞♪♫"
+char id=9829   x=395   y=96    width=24    height=26    xoffset=2     yoffset=7     xadvance=28    page=0  chnl=0  letter="♥♪♫→←✓✗•№™"
+char id=9834   x=462   y=246   width=15    height=20    xoffset=-1    yoffset=10    xadvance=14    page=0  chnl=0  letter="♪♫→←✓✗•№™"
+char id=9835   x=704   y=2     width=24    height=28    xoffset=0     yoffset=5     xadvance=28    page=0  chnl=0  letter="♫→←✓✗•№™"
+char id=10003  x=343   y=151   width=20    height=22    xoffset=1     yoffset=10    xadvance=21    page=0  chnl=0  letter="✓✗•№™"
+char id=10004  x=985   y=125   width=23    height=22    xoffset=0     yoffset=9     xadvance=24    page=0  chnl=0  letter="✔✕✖→←↑↓↔∞♪♫"
+char id=10005  x=434   y=199   width=21    height=21    xoffset=0     yoffset=10    xadvance=21    page=0  chnl=0  letter="✕✖→←↑↓↔∞♪♫"
+char id=10006  x=457   y=199   width=21    height=21    xoffset=0     yoffset=10    xadvance=21    page=0  chnl=0  letter="✖→←↑↓↔∞♪♫"
+char id=10007  x=774   y=151   width=17    height=22    xoffset=-1    yoffset=11    xadvance=16    page=0  chnl=0  letter="✗•№™"
+char id=127   x=0     y=0     width=0     height=0     xoffset=17    yoffset=20    xadvance=34    page=0  chnl=0
+char id=30    x=0     y=0     width=0     height=0     xoffset=21    yoffset=20    xadvance=42    page=0  chnl=0
+kernings count=157
+kerning first=118 second=46 amount=-2
+kerning first=915 second=278 amount=-1
+kerning first=932 second=55 amount=-3
+kerning first=933 second=360 amount=-1
+kerning first=89 second=44 amount=-3
+kerning first=271 second=35 amount=1
+kerning first=902 second=296 amount=-2
+kerning first=933 second=317 amount=-1
+kerning first=318 second=1090 amount=1
+kerning first=89 second=97 amount=-2
+kerning first=932 second=368 amount=-1
+kerning first=86 second=44 amount=-3
+kerning first=932 second=315 amount=-1
+kerning first=271 second=1089 amount=1
+kerning first=357 second=1092 amount=1
+kerning first=271 second=1092 amount=2
+kerning first=271 second=94 amount=2
+kerning first=86 second=97 amount=-1
+kerning first=84 second=58 amount=-3
+kerning first=87 second=46 amount=-2
+kerning first=84 second=111 amount=-3
+kerning first=65 second=84 amount=-2
+kerning first=933 second=1187 amount=-2
+kerning first=933 second=41 amount=-3
+kerning first=84 second=114 amount=-2
+kerning first=65 second=8217 amount=-2
+kerning first=902 second=313 amount=-2
+kerning first=932 second=42 amount=-3
+kerning first=931 second=270 amount=-1
+kerning first=929 second=1187 amount=-2
+kerning first=915 second=360 amount=-1
+kerning first=114 second=46 amount=-2
+kerning first=271 second=100 amount=2
+kerning first=84 second=117 amount=-2
+kerning first=915 second=317 amount=-1
+kerning first=318 second=104 amount=1
+kerning first=271 second=103 amount=2
+kerning first=70 second=44 amount=-4
+kerning first=89 second=112 amount=-2
+kerning first=89 second=59 amount=-2
+kerning first=119 second=44 amount=-1
+kerning first=80 second=65 amount=-2
+kerning first=87 second=111 amount=-1
+kerning first=934 second=300 amount=-1
+kerning first=915 second=1187 amount=-1
+kerning first=86 second=59 amount=-1
+kerning first=84 second=45 amount=-3
+kerning first=932 second=54 amount=-3
+kerning first=923 second=313 amount=-2
+kerning first=939 second=278 amount=-2
+kerning first=933 second=358 amount=-1
+kerning first=84 second=101 amount=-3
+kerning first=89 second=118 amount=-1
+kerning first=89 second=65 amount=-2
+kerning first=271 second=59 amount=1
+kerning first=80 second=46 amount=-5
+kerning first=915 second=286 amount=-1
+kerning first=318 second=35 amount=1
+kerning first=932 second=360 amount=-1
+kerning first=86 second=65 amount=-1
+kerning first=933 second=364 amount=-1
+kerning first=318 second=1089 amount=1
+kerning first=933 second=370 amount=-1
+kerning first=932 second=317 amount=-1
+kerning first=933 second=319 amount=-1
+kerning first=318 second=94 amount=2
+kerning first=318 second=1092 amount=2
+kerning first=89 second=46 amount=-3
+kerning first=271 second=1091 amount=2
+kerning first=933 second=40 amount=-3
+kerning first=86 second=46 amount=-3
+kerning first=915 second=358 amount=-1
+kerning first=87 second=101 amount=-1
+kerning first=932 second=1187 amount=-2
+kerning first=915 second=302 amount=-1
+kerning first=932 second=41 amount=-3
+kerning first=929 second=40 amount=-5
+kerning first=114 second=45 amount=-1
+kerning first=318 second=100 amount=2
+kerning first=65 second=86 amount=-1
+kerning first=89 second=105 amount=-1
+kerning first=76 second=84 amount=-2
+kerning first=70 second=65 amount=-1
+kerning first=915 second=364 amount=-1
+kerning first=76 second=8217 amount=-2
+kerning first=65 second=89 amount=-2
+kerning first=318 second=103 amount=1
+kerning first=84 second=119 amount=-3
+kerning first=915 second=319 amount=-1
+kerning first=121 second=44 amount=-2
+kerning first=89 second=111 amount=-3
+kerning first=89 second=58 amount=-2
+kerning first=8216 second=8216 amount=-2
+kerning first=76 second=87 amount=-1
+kerning first=84 second=44 amount=-3
+kerning first=118 second=44 amount=-2
+kerning first=934 second=294 amount=-1
+kerning first=86 second=111 amount=-1
+kerning first=86 second=58 amount=-1
+kerning first=70 second=46 amount=-4
+kerning first=84 second=97 amount=-3
+kerning first=934 second=298 amount=-1
+kerning first=86 second=114 amount=-1
+kerning first=119 second=46 amount=-1
+kerning first=933 second=304 amount=-1
+kerning first=915 second=274 amount=-3
+kerning first=318 second=59 amount=1
+kerning first=89 second=117 amount=-2
+kerning first=933 second=55 amount=-2
+kerning first=76 second=121 amount=-1
+kerning first=932 second=358 amount=-1
+kerning first=86 second=117 amount=-1
+kerning first=932 second=364 amount=-1
+kerning first=933 second=368 amount=-1
+kerning first=902 second=298 amount=-2
+kerning first=87 second=44 amount=-2
+kerning first=933 second=315 amount=-1
+kerning first=318 second=1091 amount=1
+kerning first=89 second=45 amount=-3
+kerning first=271 second=1090 amount=2
+kerning first=932 second=319 amount=-1
+kerning first=915 second=536 amount=-1
+kerning first=87 second=97 amount=-1
+kerning first=936 second=266 amount=-1
+kerning first=902 second=308 amount=-1
+kerning first=89 second=101 amount=-3
+kerning first=86 second=45 amount=-1
+kerning first=84 second=59 amount=-3
+kerning first=114 second=44 amount=-2
+kerning first=932 second=40 amount=-3
+kerning first=933 second=42 amount=-3
+kerning first=86 second=101 amount=-1
+kerning first=936 second=278 amount=-1
+kerning first=929 second=42 amount=-5
+kerning first=84 second=115 amount=-3
+kerning first=933 second=278 amount=-2
+kerning first=82 second=89 amount=-1
+kerning first=915 second=368 amount=-1
+kerning first=84 second=65 amount=-2
+kerning first=915 second=315 amount=-1
+kerning first=929 second=278 amount=-2
+kerning first=923 second=298 amount=-2
+kerning first=931 second=286 amount=-1
+kerning first=76 second=86 amount=-2
+kerning first=271 second=104 amount=2
+kerning first=84 second=121 amount=-3
+kerning first=8217 second=8217 amount=-2
+kerning first=923 second=308 amount=-1
+kerning first=934 second=292 amount=-1
+kerning first=89 second=113 amount=-2
+kerning first=76 second=89 amount=-3
+kerning first=121 second=46 amount=-2
+kerning first=933 second=54 amount=-2
+kerning first=80 second=44 amount=-5
+kerning first=84 second=99 amount=-3
+kerning first=84 second=46 amount=-3
+kerning first=8217 second=115 amount=-2
